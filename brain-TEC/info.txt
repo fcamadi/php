@@ -1,1 +1,5 @@
 
+
+Exercise done for the swiss company brain-TEC on dec-2016.
+
+A simple php script of 400 lines to do what is described in the file "PHPTestEnglishV2.0.pdf"
